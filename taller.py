@@ -11,7 +11,6 @@ class LibrarySystem:
         self.books = [
             Book("Book1", "Author1", 5),
             Book("Book2", "Author2", 8),
-            # Add more books as needed
         ]
         self.checked_out_books = []
 
